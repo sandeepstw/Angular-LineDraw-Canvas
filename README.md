@@ -1,4 +1,4 @@
-# Angular-LineDraw-Canvas
+# STW Angular Line Draw using Canvas
 
 1. Use 'npm install'
 2. user 'npm start'
